@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Mohannad Ahmad
 - I love building applications, web or mobile, that solve real world problems
 
-My current project is about streamlining the process of building personal 
-computers by taking a few inputs from a client to walk them through the build process
-
-I am looking for collaborators to help me with this project and design the algorithm.
+Check out my work at:
+- https://isoko.xyz
+- https://kadcars.com
 
 Contact me at:
 - Email: mohannadwahmad97@gmail.com
