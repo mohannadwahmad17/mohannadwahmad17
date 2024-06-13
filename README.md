@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Mohannad Ahmad
 - I love building applications, web or mobile, that solve real world problems
 
+Startup GitHub:
+- isokoxyz
+
 Check out my work at:
-- https://isoko.xyz
-- https://kadcars.com
+- Isoko NFT Marketplace on Kadena: https://isoko.xyz
+- Kadcars, GameFi project on Kadena: https://kadcars.com
 
 Contact me at:
 - Email: mohannadwahmad97@gmail.com
