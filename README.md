@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mohannad Ahmad
 - I love building applications, web or mobile, that solve real world problems
 
-Startup GitHub:
-- isokoxyz
+Startup GitHub Accounts:
+- isokoxyz: https://github.com/isokoxyz
+- qblocktech: https://github.com/qblocktech
 
 Check out my work at:
 - Isoko NFT Marketplace on Kadena: https://isoko.xyz
